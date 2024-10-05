@@ -1,0 +1,39 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 16,
+  "boxShadow": "none",
+  "defaultImage": "https://raw.githubusercontent.com/kaiquecorreia/public-images/refs/heads/main/logo_size.jpg",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "f1zjtui4fd",
+  "leftColumn": 36,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 14,
+  "mobileLeftColumn": 37,
+  "mobileRightColumn": 49,
+  "mobileTopRow": 2,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "parentColumnSpace": 5.0549163818359375,
+  "parentId": "8rq3ao3yqz",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 60,
+  "topRow": 4,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "3bgiwln6hx",
+  "widgetName": "Logotipo"
+}
